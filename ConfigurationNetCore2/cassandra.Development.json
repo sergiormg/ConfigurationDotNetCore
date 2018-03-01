@@ -1,0 +1,7 @@
+﻿{
+  "CassandraConfiguration": {
+    "Port": 9042,
+    "Keyspace": "ksp_development",
+    "ContactPoint": "localhost"
+  }
+}

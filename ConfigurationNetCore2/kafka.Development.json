@@ -1,0 +1,7 @@
+﻿{
+  "kafkaConfiguration": {
+    "Environment": "dev",
+    "Server": "localhost",
+    "Port": "9092"
+  }
+}
