@@ -1,0 +1,2 @@
+language: csharp
+solution: ConfigurationNetCore2.sln
