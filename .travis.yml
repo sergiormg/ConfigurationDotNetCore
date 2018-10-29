@@ -1,2 +1,7 @@
 language: csharp
 solution: ConfigurationNetCore2.sln
+mono: none
+dotnet: 2.0
+script:
+ - dotnet restore
+ - dotnet build
